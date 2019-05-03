@@ -1,8 +1,6 @@
 # Beautiful_Soup_Multi_Page_Scraper
-Scraped 100+ pages of movie box office data for a project
+Scraped 10,000 rows of data from 100+ pages that look like this: 
 
-
-Took 100+ pages of this:
 ![original page](https://github.com/chrisholyoake/Beautiful_Soup_Multi_Page_Scraper/blob/master/images/the-numbers.png "original page")
 
 And turned it into a single Pandas DataFrame:
